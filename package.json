@@ -1,0 +1,11 @@
+{
+  "name": "openssl-hmac",
+  "version": "0.0.0",
+  "description": "openssl-hmac",
+  "main": "index.js",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^1.7.0"
+  }
+}
